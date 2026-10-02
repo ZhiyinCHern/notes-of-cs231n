@@ -1,0 +1,23 @@
+# ---- Python 虚拟环境 ----
+.venv/
+venv/
+env/
+
+# ---- Python 缓存 ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- 数据集 ----
+cs231n/datasets/
+
+# ---- 训练好的模型权重 ----
+# cs231n/saved/*.npy
+
+# ---- 编辑器 / 系统文件 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

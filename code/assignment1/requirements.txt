@@ -1,0 +1,15 @@
+# --- 核心科学计算依赖
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
+imageio==2.37.4
+pillow==12.3.0
+
+# --- CS231N 遗留代码需要的 Py2/Py3 兼容包 ---
+six==1.17.0
+future==1.0.0
+
+# --- Notebook 运行环境 ---
+notebook==7.6.2
+ipykernel==7.3.0
+jupyterlab==4.6.3
